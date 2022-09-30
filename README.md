@@ -57,4 +57,6 @@ You can avoid this by recompiling plugin with icons (and optionally sounds) insi
 
 -----------------------
 
-old project use Unity 2017.2.0f3, and now , I upgrade it to Unity 2020.3.21f1, so old demo scene "*NotificationTest.unity*" can't open anymore, or you can change to branch `unity2017-old`.
+Old project use Unity 2017.2.0f3, and now , I upgrade it to Unity 2020.3.21f1, so old demo scene "*NotificationTest.unity*" can't open anymore, or you can change to branch `unity2017`.
+
+And import Mobile Notifications 1.4.3, which used to be in Unity 2019.4+.
